@@ -1,2 +1,2 @@
-# PRODUCT RECOMMENDATION SYSTEMS 
-This project involved building recommendation systems for Amazon products. A popularity-based model and a collaborative Filtering model were used and evaluated to recommend top-10 products for a user. 
+# HEALTH INSURANCE
+This project used Hypothesis Testing and Visualization to leverage customer's health information like smoking habits, BMI, age, and gender for checking statistical evidence to make valuable decisions of insurance business like charges for health insurance. 
